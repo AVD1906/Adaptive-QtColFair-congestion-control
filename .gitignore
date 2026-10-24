@@ -1,0 +1,17 @@
+
+# Generated NS-3 build files
+ns-allinone-3.41/ns-3.41/build/
+ns-allinone-3.41/ns-3.41/cmake-cache/
+ns-allinone-3.41/ns-3.41/__pycache__/
+ns-allinone-3.41/ns-3.41/.lock-ns3_linux_build
+
+# Temporary logs and backup copies
+*.log
+*.bak
+*.bak2
+*.backup
+*.before_recovery
+*.pre_adaptive
+*.adaptive-backup
+*.baseline
+*.probe-debug-backup
